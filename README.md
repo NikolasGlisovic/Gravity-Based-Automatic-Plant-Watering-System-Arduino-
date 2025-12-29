@@ -3,11 +3,37 @@
 This project is a **simple, reliable, and energy-efficient automatic watering system** for houseplants or balcony plants — **without using a water pump and without using soil moisture sensors**.
 
 The system uses:
+- a arduino nano for controlling everything,
 - a real-time clock (RTC) for precise timing,
 - gravity as the water source,
 - and a servo motor to mechanically open and close a silicone tube.
 
 A single button press starts the automatic watering cycle, which then repeats autonomously every 7 days.
+
+---
+
+## 📷 Images
+
+<table>
+  <tr>
+    <td align="center">
+      <img src="Images/System_overview.jpg" width="200"/><br/>
+      <b>System overview</b>
+    </td>
+    <td align="center">
+      <img src="Images/Mounted_water_tank.jpg" width="200"/><br/>
+      <b>Mounted water tank</b>
+    </td>
+    <td align="center">
+      <img src="Images/Electronics_enclosure.jpg" width="200"/><br/>
+      <b>Electronics enclosure</b>
+    </td>
+    <td align="center">
+      <img src="Images/Tube_bending_mechanism.jpg" width="200"/><br/>
+      <b>Tube bending mechanism</b>
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -125,35 +151,6 @@ This allows the servo to act as a mechanical valve without direct contact with w
 3. Set the water tank above the plant.
 4. Fill the tank with water.
 5. Press the start button once.
-
----
-
-## 📷 Images
-
-## 📷 Images
-
-<table>
-  <tr>
-    <td align="center">
-      <img src="Images/System_overview.jpg" width="200"/><br/>
-      <b>System overview</b>
-    </td>
-    <td align="center">
-      <img src="Images/Mounted_water_tank.jpg" width="200"/><br/>
-      <b>Mounted water tank</b>
-    </td>
-    <td align="center">
-      <img src="Images/Electronics_enclosure.jpg" width="200"/><br/>
-      <b>Electronics enclosure</b>
-    </td>
-    <td align="center">
-      <img src="Images/Tube_bending_mechanism.jpg" width="200"/><br/>
-      <b>Tube bending mechanism</b>
-    </td>
-  </tr>
-</table>
-
-
 
 ---
 
