@@ -130,28 +130,29 @@ This allows the servo to act as a mechanical valve without direct contact with w
 
 ## 📷 Images
 
+## 📷 Images
+
 <table>
   <tr>
     <td align="center">
-      <img src="Images/system%20overview.jpg" width="200"/><br/>
+      <img src="Images/System_overview.jpg" width="200"/><br/>
       <b>System overview</b>
     </td>
     <td align="center">
-      <img src="Images/mounted%20water%20tank.jpg" width="200"/><br/>
+      <img src="Images/Mounted_water_tank.jpg" width="200"/><br/>
       <b>Mounted water tank</b>
     </td>
-  </tr>
-  <tr>
     <td align="center">
-      <img src="Images/electronics%20enclosure.jpg" width="200"/><br/>
+      <img src="Images/Electronics_enclosure.jpg" width="200"/><br/>
       <b>Electronics enclosure</b>
     </td>
     <td align="center">
-      <img src="Images/tube%20bending%20mechanism.jpg" width="200"/><br/>
+      <img src="Images/Tube_bending_mechanism.jpg" width="200"/><br/>
       <b>Tube bending mechanism</b>
     </td>
   </tr>
 </table>
+
 
 
 ---
